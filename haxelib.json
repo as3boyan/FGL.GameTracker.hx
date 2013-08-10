@@ -1,0 +1,12 @@
+{
+ "name": "FGL.Gametracker.hx",
+ "url" : "https://github.com/as3boyan/FGL.GameTracker.hx",
+ "license": "MIT",
+ "tags": ["game","api","fgl", "gametracker"],
+ "description": "Haxe externs for FGL.Gametracker 1.2",
+ "version": "1.0.0",
+ "releasenote": "release",
+ "contributors": ["as3boyan"],
+ "dependencies": { 
+ }
+}

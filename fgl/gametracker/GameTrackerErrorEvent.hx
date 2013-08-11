@@ -3,7 +3,7 @@ package fgl.gametracker;
 import flash.events.Event;
 
 class GameTrackerErrorEvent extends Event {
-	public var msg(getMsg, never) : String;
+	public var msg(get, never) : String;
 
 	public var _msg : String;
 	public function new(type : String, msg : String) {
@@ -11,7 +11,7 @@ class GameTrackerErrorEvent extends Event {
 		super(type, false, false);
 	}
 
-	public function getMsg() : String {
+	public function get_msg() : String {
 		return _msg;
 	}
 

@@ -3,4 +3,4 @@ FGL.Gametracker.hx
 
 Haxe externs for FGL.Gametracker
 
-    haxelib git fgl.gametracker.hx https://github.com/as3boyan/FGL.GameTracker.hx/
+    haxelib git FGL.GameTracker.hx https://github.com/as3boyan/FGL.GameTracker.hx/
